@@ -1,0 +1,23 @@
+{
+  "name": "FlashCards",
+  "version": "1.0.0",
+  "description": "## Tech Stack FrontEnd - React - Redux Backend - Node/Express - Passport.js (Authentication) Database - MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlashCardApp/FlashCards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlashCardApp/FlashCards/issues"
+  },
+  "homepage": "https://github.com/FlashCardApp/FlashCards#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
